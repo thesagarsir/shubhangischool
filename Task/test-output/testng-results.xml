@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12188" started-at="2021-09-30T16:15:47 IST" finished-at="2021-09-30T16:16:00 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12188" started-at="2021-09-30T16:15:47 IST" finished-at="2021-09-30T16:16:00 IST">
+      <class name="MoneyControl">
+        <test-method status="PASS" signature="Test_1()[pri:0, instance:MoneyControl@78e67e0a]" name="Test_1" duration-ms="12127" started-at="2021-09-30T16:15:47 IST" finished-at="2021-09-30T16:16:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_1 -->
+      </class> <!-- MoneyControl -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
